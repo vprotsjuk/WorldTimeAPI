@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T19:09:15 PST" name="Default Suite" finished-at="2023-02-20T19:09:16 PST" duration-ms="978">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T19:09:15 PST" name="WorldTimeAPI" finished-at="2023-02-20T19:09:16 PST" duration-ms="978">
+      <class name="WorldTimeAPITest">
+        <test-method signature="getErrorAboutArgentinaS()[pri:0, instance:WorldTimeAPITest@545997b1]" started-at="2023-02-20T19:09:15 PST" name="getErrorAboutArgentinaS" finished-at="2023-02-20T19:09:16 PST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getErrorAboutArgentinaS -->
+        <test-method signature="getInfoAboutArgentinaSalta()[pri:0, instance:WorldTimeAPITest@545997b1]" started-at="2023-02-20T19:09:16 PST" name="getInfoAboutArgentinaSalta" finished-at="2023-02-20T19:09:16 PST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfoAboutArgentinaSalta -->
+        <test-method signature="getInfoAboutLocalIP()[pri:0, instance:WorldTimeAPITest@545997b1]" started-at="2023-02-20T19:09:16 PST" name="getInfoAboutLocalIP" finished-at="2023-02-20T19:09:16 PST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfoAboutLocalIP -->
+        <test-method signature="getInfoAboutLondonAsString()[pri:0, instance:WorldTimeAPITest@545997b1]" started-at="2023-02-20T19:09:16 PST" name="getInfoAboutLondonAsString" finished-at="2023-02-20T19:09:16 PST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfoAboutLondonAsString -->
+        <test-method signature="getListOfAvailableEuropeanTimeZones()[pri:0, instance:WorldTimeAPITest@545997b1]" started-at="2023-02-20T19:09:16 PST" name="getListOfAvailableEuropeanTimeZones" finished-at="2023-02-20T19:09:16 PST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfAvailableEuropeanTimeZones -->
+        <test-method signature="getListOfAvailableTimeZones()[pri:0, instance:WorldTimeAPITest@545997b1]" started-at="2023-02-20T19:09:16 PST" name="getListOfAvailableTimeZones" finished-at="2023-02-20T19:09:16 PST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfAvailableTimeZones -->
+      </class> <!-- WorldTimeAPITest -->
+    </test> <!-- WorldTimeAPI -->
+  </suite> <!-- Default Suite -->
+</testng-results>
